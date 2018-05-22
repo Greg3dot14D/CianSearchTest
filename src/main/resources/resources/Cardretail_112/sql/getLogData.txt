@@ -1,0 +1,17 @@
+select ROW_ID,
+       CREATED,
+       PROCESS_ID,
+       PROCESS_NAME,
+       DESCRIPTION,
+       FAULT_CODE,
+       X_ATTRIB_01,
+       XML_MESSAGE,
+       X_ATTRIB_02,
+       X_ATTRIB_03,
+       X_ATTRIB_04,
+       X_ATTRIB_05
+  from cx_message_log cx
+ where created > to_date('16.11.2016 8:00','DD.MM.YYYY HH24:MI')
+ --sysdate - 1
+   and process_name = 'SBRF UFS - CheckInStopListRq'
+ order by cx.created desc

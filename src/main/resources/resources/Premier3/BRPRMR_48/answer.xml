@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SendClientOfferRs>
+    <HeaderInfo>
+        <RqUID>CONST_LOCAL_INT</RqUID>
+        <RqTm>12/01/2017</RqTm>
+        <SPName>LOCAL_INT</SPName>
+        <SystemId>0.0</SystemId>
+        <VersionId>1.0.</VersionId>
+        <ErrorCode>0</ErrorCode>
+        <ErrorText>Local Int</ErrorText>
+    </HeaderInfo>
+    <Status>
+        <StatusCode>0</StatusCode>
+        <StatusDesc>ErrorCode 0. Описание для SendClientOfferRs </StatusDesc>
+        <AdditionalStatus>
+            <StatusCode>0</StatusCode>
+            <StatusDesc>Доп. Статус</StatusDesc>
+        </AdditionalStatus>
+    </Status>
+    <ClientSMS>
+        <OriginalOperationUID>1-9888644440</OriginalOperationUID>
+    </ClientSMS>
+</SendClientOfferRs>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SrvQueryClientAppealsRq>
+    <HeaderInfo RqUID="RqUID" RqTm="02/27/2017 11:21:54" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm"/>
+    <SiebelMessage
+            IntObjectName="SBRF UFS QueryClientAppeals Rq">
+        <ClientInfo>
+            <EPKId></EPKId>
+            <StubId></StubId>
+            <LastName></LastName>
+            <FirstName></FirstName>
+            <MiddleName></MiddleName>
+            <BirthDate></BirthDate>
+            <PassportSer></PassportSer>
+            <PassportNum></PassportNum>
+        </ClientInfo>
+        <Appeals>
+            <DateFrom></DateFrom>
+            <DateTo></DateTo>
+            <AppealNum></AppealNum>
+        </Appeals>
+    </SiebelMessage>
+</SrvQueryClientAppealsRq>

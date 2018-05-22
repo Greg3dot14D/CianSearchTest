@@ -1,0 +1,11 @@
+<GetSalaryAgreementRq>
+    <HeaderInfo RqUID="" RqTm="" SystemId="" SPName="" UserInfo=""/>
+    <SiebelMessage SearchType="" IntObjectName="">
+        <ListOfAgreement>
+            <Agreement>
+                <Id></Id>
+                <AgreementNumber></AgreementNumber>
+            </Agreement>
+        </ListOfAgreement>
+    </SiebelMessage>
+</GetSalaryAgreementRq>

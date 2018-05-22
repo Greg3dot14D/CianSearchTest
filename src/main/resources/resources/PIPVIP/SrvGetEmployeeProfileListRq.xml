@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetEmployeeProfileListRq>
+	<HeaderInfo UserInfo="USER378" RqUID="GH171239JG2GUS6PV8P0Y0N1E9XCPU3BHH7ZYSNNSN0RNNN2" RqTm="11/11/2016 17:14:00" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm"/>
+<SiebelMessage IntObjectName="SBRF UFS GetEmployeeProfileList Employee Rq">
+	<ListOfEmployee>				
+		<Employee>
+			<LoginName>x</LoginName>
+			<LoginFlag>V</LoginFlag>
+		</Employee>
+	</ListOfEmployee>
+</SiebelMessage>
+</GetEmployeeProfileListRq>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QueryPrivateClientManagerTaskRq>
+    <HeaderInfo RqUID="MyGENERALRQUID" RqTm="04/11/2016 18:51:00" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm" Method=""/>
+    <SiebelMessage IntObjectName="SBRF UFS NBO QueryPrivateClientManagerTaskRs">
+        <ListOfActivity>
+            <Activity searchspec="">
+                <LoginName></LoginName>
+                <Status></Status>
+                <PlanStartDateTo></PlanStartDateTo>
+                <PlanStartDateFrom></PlanStartDateFrom>
+            </Activity>
+        </ListOfActivity>
+    </SiebelMessage>
+</QueryPrivateClientManagerTaskRq>
+

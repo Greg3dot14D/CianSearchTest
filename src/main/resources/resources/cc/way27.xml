@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Way27Rs>
+	<HeaderInfo ErrorCode="0" ErrorText="" RqUID="00000000000000000000000000000000"/>
+	<SiebelMessage MessageId="String" IntObjectName="SBRF Way27Rs" IntObjectFormat="Siebel Hierarchical" MessageType="Integration Object">
+		<ListOfCardMainInfo>
+			<CardMainInfo>
+				<BankAcctStatusCode>+ - КАРТОЧКА ОТКРЫТА</BankAcctStatusCode>
+				<EndDt>1310</EndDt>
+				<Avail>1115001</Avail>
+				<Cash>15987</Cash>
+				<Retail>16495</Retail>
+				<Credit>-60000</Credit>
+				<OVD></OVD>
+				<PreviosReportDate>11/04/2013</PreviosReportDate>
+				<NextReportDate>12/03/2013</NextReportDate>
+				<AcctCur>RUR</AcctCur>
+				<Sequrity>СКРИП ГРАД УЕЕЕЕ</Sequrity>
+				<Telecard>140812</Telecard>
+				<PendingCurAmt></PendingCurAmt>
+				<ContractId>23423423423</ContractId>
+				<LastName>МАРИНИНА</LastName>
+				<FirstName>ЕКАТЕРИНА</FirstName>
+				<MiddleName>СЕРГЕЕВНА</MiddleName>
+				<FullName>МАРИНИНАЕС</FullName>
+				<BirthDate>10/10/2000</BirthDate>
+				<DocumentNumber>20 12 488331</DocumentNumber>
+				<Email>HelloWorld@WorldHello.com</Email>
+				<AccountProdStatus>N</AccountProdStatus>
+				<AccountReady>Accread</AccountReady>
+				<AccountStatus>S - УКРАДЕНО</AccountStatus>
+				<Branch>1234/4564</Branch>
+				<CardProdStatus>Y</CardProdStatus>
+				<CardReady>N</CardReady>
+				<CardStatus>100</CardStatus>
+				<ClientId>Client</ClientId>
+				<ContractNumber>40817810213001443039</ContractNumber>
+				<FI>139013 ВОРОНЕЖСКИЙ</FI>
+				<MaxPinAttempt>3</MaxPinAttempt>
+				<PinAttempt>1</PinAttempt>
+				<CrdProdFeeValue>1337</CrdProdFeeValue>
+				<PrvCrdProdFeeValue>888777</PrvCrdProdFeeValue>
+				<ProductName>Best Product</ProductName>
+				<PendingCurAmt>245242</PendingCurAmt>
+				<OVD>156</OVD>
+				<Curr>RU</Curr>
+				<MainContractDateExpire>12/08/2020</MainContractDateExpire>
+				<MainContractDateOpen>12/08/2010</MainContractDateOpen>
+				<MainContractAmndDate>12/08/2015</MainContractAmndDate>
+				<MainContractAmndOfficer>Ленин ВИ</MainContractAmndOfficer>
+				<Subtype>N</Subtype>
+				<SpecialRegion>Y</SpecialRegion>
+			</CardMainInfo>
+		</ListOfCardMainInfo>
+	</SiebelMessage>
+</Way27Rs>
+

@@ -1,0 +1,15 @@
+<GetLegalPartyListRq>
+    <HeaderInfo RqUID="" RqTm="" SystemId="" SPName="" UserInfo=""/>
+    <SiebelMessage SearchType="">
+        <ListOfOrganization>
+            <Organization>
+                <INN></INN>
+                <KPP></KPP>
+                <TB></TB>
+                <GOSB></GOSB>
+                <OrgName></OrgName>
+                <HoldingId></HoldingId>
+            </Organization>
+        </ListOfOrganization>
+    </SiebelMessage>
+</GetLegalPartyListRq>

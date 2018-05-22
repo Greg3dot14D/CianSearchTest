@@ -1,0 +1,24 @@
+<SrvCardApproveInfoRq>
+  <HeaderInfo RqTm="09/28/2016 16:53:33" RqUID="d99d209a40494a8b91b0315c646e861b" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm"/>
+  <Offer>
+    <LastName> À»≈Õ“</LastName>
+    <FirstName>ƒÀﬂ</FirstName>
+    <MiddleName>œ–Œ¬≈– »</MiddleName>
+    <BirthDate>09/10/1999</BirthDate>
+    <DocumentNumber>453031</DocumentNumber>
+    <DocumentSeries>4145</DocumentSeries>
+    <LimitSum>1002</LimitSum>
+    <CompanyName>Company</CompanyName>
+    <WorkIndex>875621</WorkIndex>
+    <WorkAdress1>WorkAdress1</WorkAdress1>
+    <WorkAdress2>WorkAdress2</WorkAdress2>
+    <WorkAdress3>WorkAdress3</WorkAdress3>
+    <WorkAdress4>WorkAdress4</WorkAdress4>
+    <ClientID>1546258</ClientID>
+    <CardNum>2000200020002000</CardNum>
+    <CodeTB>19</CodeTB>
+    <CodeOSB>1463</CodeOSB>
+    <CodeVSP>12340</CodeVSP>
+    <ClientType>TEST_06072016_1340</ClientType>
+  </Offer>
+</SrvCardApproveInfoRq>

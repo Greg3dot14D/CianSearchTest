@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><QueryPrivateClientManagerTaskRq
+><HeaderInfo
+ RqUID=""
+ RqTm=""
+ SystemId="urn:sbrfsystems:99-ufs"
+ SPName="urn:sbrfsystems:99-crm"
+></HeaderInfo
+><SiebelMessage
+><ListOfTaskPIP
+>
+<TaskPIP>
+<DateFrom
+></DateFrom
+><DateTo
+></DateTo
+><TaskId
+></TaskId
+><StubId
+></StubId
+><DivisionId
+></DivisionId
+><ListOfTaskStatus
+><StatusTaskPIP
+></StatusTaskPIP>
+</ListOfTaskStatus>
+</TaskPIP>
+</ListOfTaskPIP
+></SiebelMessage
+></QueryPrivateClientManagerTaskRq
+>

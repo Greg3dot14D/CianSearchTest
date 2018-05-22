@@ -1,0 +1,7 @@
+<QueryPrivateClientAdditionalInfoRq>
+    <HeaderInfo RqUID="" RqTm="" SystemId="" SPName=""/>
+    <Client>
+        <StubId></StubId>
+        <EpkId></EpkId>
+    </Client>
+</QueryPrivateClientAdditionalInfoRq>

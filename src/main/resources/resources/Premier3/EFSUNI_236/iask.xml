@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IASK01Rs>
+    <HeaderInfo RqUID="410CEB643ACA11e783CC00144FFBEE52" ErrorCode="0" ErrorText="ТестАвтоКекс"/>
+    <SiebelMessage MessageId="1-2FXPK7P" MessageType="Integration Object" IntObjectName="SBRF IASK01Rs" IntObjectFormat="Siebel Hierarchical">
+        <ListOfLoanInfo>
+            <LoanInfo>
+                <AcctCur>RUR</AcctCur>
+                <AcctId>45507810300020644916</AcctId>
+                <CreditingRate>22.15</CreditingRate>
+                <CurAmt>329670.33</CurAmt>
+                <IsAnn>Y</IsAnn>
+                <NextPayDate>05/23/2017</NextPayDate>
+                <NextPaySum>0</NextPaySum>
+                <Period>1826</Period>
+                <PrevPaySum>9133.27</PrevPaySum>
+                <RegPayAmount>10000.27</RegPayAmount>
+                <LastName>Чумак</LastName>
+                <FirstName>Андрей</FirstName>
+                <MiddleName>Владимирович</MiddleName>
+                <FullName>ЧумакАВ</FullName>
+                <BirthDate>08/11/1988</BirthDate>
+                <DocumentNumber>45 09 809431</DocumentNumber>
+            </LoanInfo>
+            <LoanInfo>
+                <AcctCur>RUR</AcctCur>
+                <AcctId>45507810300020644916</AcctId>
+                <CreditingRate>21.15</CreditingRate>
+                <CurAmt>329670.33</CurAmt>
+                <IsAnn>N</IsAnn>
+                <NextPayDate>05/23/2017</NextPayDate>
+                <NextPaySum>1230</NextPaySum>
+                <Period>1826</Period>
+                <PrevPaySum>9000.27</PrevPaySum>
+                <RegPayAmount>10000.27</RegPayAmount>
+                <LastName>Чумак</LastName>
+                <FirstName>Андрей</FirstName>
+                <MiddleName>Владимирович</MiddleName>
+                <FullName>ЧумакАВ</FullName>
+                <BirthDate>08/11/1988</BirthDate>
+                <DocumentNumber>45 09 809431</DocumentNumber>
+            </LoanInfo>
+        </ListOfLoanInfo>
+    </SiebelMessage>
+</IASK01Rs>

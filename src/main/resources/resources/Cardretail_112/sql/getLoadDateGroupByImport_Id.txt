@@ -1,0 +1,5 @@
+select min(load_date) AS "LOAD_DATE", import_id, max(row_id), min(ROW_ID), count(row_id)
+from CX_CAND_LIST
+where created > sysdate - 5
+GROUP BY import_id
+order by LOAD_DATE DESC

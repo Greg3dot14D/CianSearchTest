@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WZ05Rq>
+	<HeaderInfo RqUID="010202017ASDF077" RqTm="05/03/2017 12:00:00" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm"/>
+	<SiebelMessage MessageId="" MessageType="Integration Object" IntObjectName="SBRF WZ05Rq" IntObjectFormat="Siebel Hierarchical">
+		<ListOfCampaignMembers pagesize="" startrownum="" recordcountneeded="">
+			<CampaignMember searchspec="">
+				<SourceCode></SourceCode>
+				<StubID/>
+				<LastName></LastName>
+				<FirstName></FirstName>
+				<MiddleName></MiddleName>
+				<BirthDate></BirthDate>
+				<SBRFCellPhone/>
+				<ClientId></ClientId>
+				<Passport></Passport>
+				<TB></TB>
+				<TreatmentType></TreatmentType>
+				<ProductType></ProductType>
+			</CampaignMember>
+		</ListOfCampaignMembers>
+	</SiebelMessage>
+</WZ05Rq>

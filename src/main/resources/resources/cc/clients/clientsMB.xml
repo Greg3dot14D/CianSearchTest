@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<clientWithBankingCard>
+    <HeaderInfo RqUID="" RqTm="" ErrorCode="" SystemId="" SPName="" ErrorText=""/>
+    <ListOfClients>
+        <!--Клиент Массовый с банковскими картами с МБ-->
+        <Client>
+            <LastName>ГУРОВ</LastName>
+            <FirstName>ДМИТРИЙ</FirstName>
+            <MiddleName>КУКРИНКИНОВИЧВИЧ</MiddleName>
+            <BirthDate>18.11.1967</BirthDate>
+            <NickName>ГУРОВДК</NickName>
+            <Phone></Phone>
+            <DUL>6566124578</DUL>
+            <CRMId>1-CX9N-75</CRMId>
+            <MDMId>562651524493618673</MDMId>
+            <StubID>1729210460</StubID>
+            <Segment>Массовый</Segment>
+            <MBPhone>+79153999928</MBPhone>
+            <ListOfBankingCards>
+                <BankingCard>
+                    <Id>1-CWU1-6420</Id>
+                    <CardNumber>5469380021154249</CardNumber>
+                    <Status>3</Status>
+                    <ProductId>1-1LB3-678</ProductId>
+                </BankingCard>
+            </ListOfBankingCards>
+        </Client>
+
+
+        <!--Клиент Премьер с банковскими картами с МБ-->
+        <Client>
+            <LastName>СЕРГУНИНА</LastName>
+            <FirstName>АНАСТАСИЯ</FirstName>
+            <MiddleName>ИГОРЕВНА</MiddleName>
+            <BirthDate>07.08.1988</BirthDate>
+            <Nickname>СЕРГУНИНААИ</Nickname>
+            <Phone></Phone>
+            <DUL>7862820696</DUL>
+            <CRMId>1-1EJCFXI</CRMId>
+            <MDMId>1-1EJCFXI</MDMId>
+            <StubID>123123121231231</StubID>
+            <Segment>Премьер</Segment>
+            <MBPhone>+79201234578</MBPhone>
+            <ListOfBankingCards>
+                <BankingCard>
+                    <Id>1@1171555232</Id>
+                    <CardNumber>4817790055042536</CardNumber>
+                    <Status>3</Status>
+                    <ProductId>1-7W8UZ</ProductId>
+                </BankingCard>
+                <BankingCard>
+                    <Id>1@1873089916</Id>
+                    <CardNumber>5479270010023885</CardNumber>
+                    <Status>1</Status>
+                    <ProductId>1-22NW6SW</ProductId>
+                </BankingCard>
+            </ListOfBankingCards>
+        </Client>
+    </ListOfClients>
+</clientWithBankingCard>

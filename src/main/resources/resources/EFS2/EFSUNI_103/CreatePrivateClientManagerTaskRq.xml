@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreatePrivateClientManagerTaskRq>
+    <HeaderInfo OperUId = "123123123123123" UserInfo="SADMIN" RqUID="MyGENERALRQUID" RqTm="04/11/2016 18:51:00" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm"/>
+    <SiebelMessage IntObjectName="SBRF UFS CreateClientManagerActivity Rq">
+        <ListOfActivity>
+            <Activity>
+                <Type>Полевое развитие</Type>
+                <CreatedByUser>DPROZOROVSKIY</CreatedByUser>
+                <Owner>AVEDENIN</Owner>
+                <PlanDateFrom>06/05/2016 12:00:00</PlanDateFrom>
+                <PlanDateTo>06/05/2016 13:00:00</PlanDateTo>
+                <Description>Тестовая активность. Полевое развитие. Точка SBRF UFS CreateClientManagerActivity Rq. 1</Description>
+                <Priority>2-Высокий</Priority>
+                <Comment>Тестовая активность. Полевое развитие. Точка SBRF UFS CreateClientManagerActivity Rq</Comment>
+                <FactDateFrom></FactDateFrom>
+                <EpkId></EpkId>
+                <StabId></StabId>
+                <BirthDate></BirthDate>
+                <LastName></LastName>
+                <FirstName></FirstName>
+                <MiddleName></MiddleName>
+                <DocType></DocType>
+                <DocNum></DocNum>
+                <DocDate></DocDate>
+                <AutoactivityFlag></AutoactivityFlag>
+                <PhoneType></PhoneType>
+                <PhoneNumber></PhoneNumber>
+                <Status></Status>
+                <ListOfProducts>
+                    <Product>
+                        <ProductType></ProductType>
+                    </Product>
+                </ListOfProducts>
+            </Activity>
+        </ListOfActivity>
+    </SiebelMessage>
+</CreatePrivateClientManagerTaskRq>

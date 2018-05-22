@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UpdatePrivateClientManagerTaskRq>
+    <HeaderInfo
+            RqUID="343121"
+            SystemId="urn:sbrfsystems:99-ufs"
+            RqTm="06/20/2017 16:00:00"
+            SPName="urn:sbrfsystems:99-ufs">
+    </HeaderInfo>
+    <PrimaryOperation>
+        <OperationGroup>UFSActiveOperations</OperationGroup>
+        <OperationType>Insurance</OperationType>
+        <OperationName>Product</OperationName>
+        <SrcObjId>0000000145</SrcObjId>
+        <ClientId>289817666</ClientId>
+        <OperationData>
+            <ErrorCode></ErrorCode>
+            <ErrorMsName></ErrorMsName>
+            <ErrorText></ErrorText>
+            <Currency>RUR</Currency>
+            <EndDate>07/04/2017 16:12:12</EndDate>
+            <OrgName>Сбербанк страхование</OrgName>
+            <PanSrc>123124******5665</PanSrc>
+            <ApAction></ApAction>
+            <PmtPeriod>1</PmtPeriod>
+            <PersonalAccount>4444332266334</PersonalAccount>
+            <ServiceSrId>1-6GESSSV</ServiceSrId>
+            <SmsPhoneNum>+79040057559</SmsPhoneNum>
+            <StartDate>07/04/2017 16:10:11</StartDate>
+            <Status>WaitingForClient</Status>
+            <StatusDate>07/04/2017 16:12:12</StatusDate>
+            <Sum>54000</Sum>
+            <CreditAgreement>44546364777777</CreditAgreement>
+            <InsuredSum>4000</InsuredSum>
+            <InsuredSumCurrency>RUR</InsuredSumCurrency>
+            <OfficeMark>Y</OfficeMark>
+            <InsuredObject>г. Уфа, Ул. Крылова, дом 2</InsuredObject>
+            <PolicyStartDate>08/11/2017</PolicyStartDate>
+            <PolicyEndDate>08/11/2018</PolicyEndDate>
+        </OperationData>
+        <Product>
+            <Code>1-3HAZ6Z</Code>
+        </Product>
+        <ClientInfo>
+            <SourceCode>CRYVLR4XJ6W6</SourceCode>
+        </ClientInfo>
+    </PrimaryOperation>
+</UpdatePrivateClientManagerTaskRq>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WZ05Rq xsi:noNamespaceSchemaLocation="WZ05Rq.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HeaderInfo RqUID="E5413W11035606j7517871130FY82CDA" RqTm="08/01/2016 16:25:00" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm"/>
+	<SiebelMessage>
+		<ListOfCampaignMembers pagesize="" startrownum="" recordcountneeded="">
+			<CampaignMember searchspec="">
+				<SourceCode>90YVLR4904S6</SourceCode>
+				<StubID>256309398013</StubID>
+				<LastName>ВОЕВОДИН</LastName>
+				<FirstName>ВИКТОР</FirstName>
+				<MiddleName>ВЯЧЕСЛАВОВИЧ</MiddleName>
+				<BirthDate>09/16/1970</BirthDate>
+				<SBRFCellPhone/>
+				<ClientId/>
+				<Passport>0104582927</Passport>
+				<TB>00</TB>
+				<TreatmentType>Service to Sale</TreatmentType>
+				<ProductType>CreditCard</ProductType>
+			</CampaignMember>
+		</ListOfCampaignMembers> 
+	</SiebelMessage>
+</WZ05Rq>

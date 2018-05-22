@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetPrivateLeadsListRq>
+<HeaderInfo SystemId="urn:sbrfsystems:99-crm" RqUID="" RqTm="" SPName="urn:sbrfsystems:99-ufs"/>
+    <ClientInfo>
+        <EpkId></EpkId>
+        <StubId></StubId>
+        <LastName></LastName>
+        <FirstName></FirstName>
+        <MiddleName></MiddleName>
+        <BirthDate></BirthDate>
+        <PassportSer></PassportSer>
+        <PassportNum></PassportNum>
+    </ClientInfo>
+</GetPrivateLeadsListRq>
+
+

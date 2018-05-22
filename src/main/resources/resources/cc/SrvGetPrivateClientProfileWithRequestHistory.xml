@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SrvGetPrivateClientProfileWithRequestHistoryRq>
+    <HeaderInfo RqUID="E5404B11195606s751766340TEST10" RqTm="06/01/2017 15:31:00" SPName="urn:sbrfsystems:99-ivr" SystemId="urn:sbrfsystems:99-crm"/>
+    <SiebelMessage MessageType="SBRF SrvGetPrivateClientProfileWithRequestHistoryRq" IntObjectFormat="Integration Object" IntObjectName="Siebel Hierarchical"/>
+    <ListOfParams>
+        <ParamsOfMessage>
+            <AONNum></AONNum>
+            <CRMId></CRMId>
+            <CardNumber></CardNumber>
+        </ParamsOfMessage>
+    </ListOfParams>
+</SrvGetPrivateClientProfileWithRequestHistoryRq>

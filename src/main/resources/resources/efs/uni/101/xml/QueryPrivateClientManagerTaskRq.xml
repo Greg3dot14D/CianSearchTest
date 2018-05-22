@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QueryPrivateClientManagerTaskRq>
+    <HeaderInfo RqUID="RqUID_test1" RqTm="2008-09-29T05:49:45" SystemId="urn:sbrfsystems:99-crm" SPName="urn:sbrfsystems:99-ufs"></HeaderInfo>
+    <SiebelMessage>
+        <ListOfActivity>
+            <Activity searchspec="Проверка UNI 101">
+                <LoginName>USER35</LoginName>
+				<PlanStartDateFrom></PlanStartDateFrom>
+                <PlanStartDateTo></PlanStartDateTo>
+				<MdmId></MdmId>
+				<EpkId></EpkId>
+				<Status>Завершена</Status>
+				<LastName></LastName>
+				<FirstName></FirstName>
+				<MiddleName></MiddleName>
+				<BirthDate></BirthDate>
+				<DocumentSerNum></DocumentSerNum>
+				<DivisionNum></DivisionNum>
+            </Activity>
+        </ListOfActivity>
+    </SiebelMessage>
+</QueryPrivateClientManagerTaskRq>

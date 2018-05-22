@@ -1,0 +1,20 @@
+<SbsRegistryResponse>
+    <OperationResult>
+        <Code>0</Code>
+        <Description>Ok</Description>
+        <blet>14</blet>
+    </OperationResult>
+    <OperationData>
+        <Modality>navalny</Modality>
+        <Modality>VOICE_TEXT</Modality>
+        <Modality>FACE</Modality>
+        <Modality>VOICE_FREE</Modality>
+        <AddParams>
+            <Key>AgreementState</Key>
+            <Value>Accepted</Value>
+        </AddParams>
+    </OperationData>
+    <BadTeg>
+        <VeryBadTeg>100</VeryBadTeg>
+    </BadTeg>
+</SbsRegistryResponse>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QueryPrivateClientManagerTaskRq>
+<Activity
+>
+	<BirthDate
+>04/10/2009</BirthDate
+>
+	<BusinessSegment
+/>
+	<EpkId
+>1-OMY98</EpkId
+>
+	<FirstName
+/>
+	<LastName
+/>
+	<MdmId
+>396315567885380575</MdmId
+>
+	<MiddleName
+/>
+	<Phone
+>1-1LHBEG</Phone
+>
+	<DocumentSerNum
+>1212123123</DocumentSerNum
+>
+	<AutoactivityFlag
+/>
+	<Segment
+>Массовый</Segment
+>
+	<ParentActionId
+/>
+	<BisType
+/>
+	<ListOfProducts
+/>
+	<Id
+>1-OMY98</Id
+>
+	<Version
+>6</Version
+>
+	<Type
+>Встреча</Type
+>
+	<Status
+>Отменена</Status
+>
+	<PlanDateFrom
+>05/16/2012 14:16:43</PlanDateFrom
+>
+	<PlanDateTo
+>05/16/2012 14:17:07</PlanDateTo
+>
+	<FactDateFrom
+>05/16/2012 10:16:43</FactDateFrom
+>
+	<FactDateTo
+/>
+	<GPS
+/>
+	<InTimeFlag
+/>
+	<ChildActivityFlag
+>N</ChildActivityFlag
+>
+	<OrganizationId
+/>
+	<AddressId
+/>
+	<PointId
+/>
+	<CreatedByUser
+>USER35</CreatedByUser
+>
+	<Owner
+>USER35</Owner
+>
+	<Estimated
+/>
+	<Description
+>   Встреча</Description
+>
+	<Result
+/>
+	<Comment
+>   Встреча</Comment
+>
+</Activity
+>
+<Activity
+>
+	<BirthDate
+>04/10/2009</BirthDate
+>
+	<BusinessSegment
+/>
+	<EpkId
+>1-OMY98</EpkId
+>
+	<FirstName
+/>
+	<LastName
+/>
+	<MdmId
+>396315567885380575</MdmId
+>
+	<MiddleName
+/>
+	<Phone
+>1-1LHBEG</Phone
+>
+	<DocumentSerNum
+>1212123123</DocumentSerNum
+>
+	<AutoactivityFlag
+/>
+	<Segment
+>Массовый</Segment
+>
+	<ParentActionId
+/>
+	<BisType
+/>
+	<ListOfProducts
+/>
+	<Id
+>1-OMY98</Id
+>
+	<Version
+>6</Version
+>
+	<Type
+>Встреча</Type
+>
+	<Status
+>Отменена</Status
+>
+	<PlanDateFrom
+>05/16/2012 14:16:43</PlanDateFrom
+>
+	<PlanDateTo
+>05/16/2012 14:17:07</PlanDateTo
+>
+	<FactDateFrom
+>05/16/2012 10:16:43</FactDateFrom
+>
+	<FactDateTo
+/>
+	<GPS
+/>
+	<InTimeFlag
+/>
+	<ChildActivityFlag
+>N</ChildActivityFlag
+>
+	<OrganizationId
+/>
+	<AddressId
+/>
+	<PointId
+/>
+	<CreatedByUser
+>USER35</CreatedByUser
+>
+	<Owner
+>USER35</Owner
+>
+	<Estimated
+/>
+	<Description
+>   Встреча</Description
+>
+	<Result
+/>
+	<Comment
+>   Встреча</Comment
+>
+</Activity
+>
+</QueryPrivateClientManagerTaskRq>

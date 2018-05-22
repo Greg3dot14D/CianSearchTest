@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QueryPrivateClientManagerTaskRq>
+    <HeaderInfo UserInfo="SADMIN" RqUID="RqUID_test1" RqTm="06/11/2017 16:00:00" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm"></HeaderInfo>
+    <SiebelMessage IntObjectName="SBRF UFS QueryPrivateClientManagerTask Rq">
+        <ListOfRequest>
+            <Request>
+                <ServiceSrId>1</ServiceSrId>
+            </Request>
+        </ListOfRequest>
+    </SiebelMessage>
+</QueryPrivateClientManagerTaskRq>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetPrivateLeadsListRq>
+<HeaderInfo SystemId="" RqUID="" RqTm="" SPName=""/>
+    <ClientInfo>
+        <LastName></LastName>
+        <FirstName></FirstName>
+        <MiddleName></MiddleName>
+        <BirthDate></BirthDate>
+        <PassportSer></PassportSer>
+        <PassportNum></PassportNum>
+    </ClientInfo>
+</GetPrivateLeadsListRq>
+
+

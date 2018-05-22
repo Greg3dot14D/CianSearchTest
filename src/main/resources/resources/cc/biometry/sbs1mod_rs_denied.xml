@@ -1,0 +1,13 @@
+<SbsRegistryResponse>
+    <OperationResult>
+        <Code>0</Code>
+        <Description>Ok</Description>
+    </OperationResult>
+    <OperationData>
+        <Modality>VOICE_TEXT</Modality>
+        <AddParams>
+            <Key>AgreementState</Key>
+            <Value>Denied</Value>
+        </AddParams>
+    </OperationData>
+</SbsRegistryResponse>

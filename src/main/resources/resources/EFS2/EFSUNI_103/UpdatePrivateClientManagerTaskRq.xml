@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UpdatePrivateClientManagerTaskRq>
+    <HeaderInfo UserInfo="SADMIN" RqUID="MYAUTOTESTRQ" RqTm="04/26/2017 11:51:00" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm"/>
+    <SiebelMessage IntObjectName="SBRF UFS UpdateClientManagerActivity Rq">
+        <ListOfActivity>
+            <Activity>
+                <Id>1-0G-F57GL</Id>
+                <Version>3</Version>
+                <Owner>USER53</Owner>
+                <Description>Update</Description>
+                <Status>Cancelled</Status>
+                <FactDateTo>04/25/2017 15:00:00</FactDateTo>
+                <FactDateFrom>04/24/2017 15:00:00</FactDateFrom>
+                <PlanDateFrom>04/24/2017 14:00:00</PlanDateFrom>
+                <PlanDateTo>04/25/2017 14:00:00</PlanDateTo>
+                <GPS>N</GPS>
+                <InTimeFlag>Y</InTimeFlag>
+                <Result>Согласовано с клиентом</Result>
+                <Comment>тест</Comment>
+                <PhoneType>3</PhoneType>
+                <PhoneNum>9267894570</PhoneNum>
+                <Priority>2-High</Priority>
+                <ListOfProducts>
+                    <Product>
+                        <ProductType>type1</ProductType>
+                    </Product>
+                </ListOfProducts>
+            </Activity>
+        </ListOfActivity>
+    </SiebelMessage>
+</UpdatePrivateClientManagerTaskRq>

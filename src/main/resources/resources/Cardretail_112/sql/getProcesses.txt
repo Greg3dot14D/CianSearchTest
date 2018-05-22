@@ -1,0 +1,5 @@
+select row_id,created,PROC_STATUS_DT,proc_name,proc_status,proc_status_sbl,proc_type,proc_message
+from cx_process
+where created > sysdate -1
+and proc_name = 'Load_Candidat_List'
+order by created desc

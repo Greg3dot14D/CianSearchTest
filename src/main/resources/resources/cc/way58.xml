@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Way58Rs>
+	<HeaderInfo ErrorCode="0" ErrorText="" RqUID="7819AEE85DCC471799F8C4BE450AF35B"/>
+	<SiebelMessage MessageId="String" IntObjectName="SBRF Way58Rs" IntObjectFormat="Siebel Hierarchical" MessageType="Integration Object">
+		<ListOfCardCreditInfo>
+			<CardCreditInfo>
+				<ForecastLoan>1330 руб.</ForecastLoan>
+				<Fee>1000 руб.</Fee>
+				<Ovd>200 usd</Ovd>
+				<Ovl>500 usd</Ovl>
+				<LoanInt>300 eur</LoanInt>
+				<MainLoan>80%</MainLoan>
+				<Forfeit>340</Forfeit>
+				<GraceLoanInt>5%</GraceLoanInt>
+				<PenaltyOnDate>6336 руб</PenaltyOnDate>
+				<LoanIntOnDate>1122 руб</LoanIntOnDate>
+				<GraceInt>13%</GraceInt>
+			</CardCreditInfo>
+		</ListOfCardCreditInfo>
+	</SiebelMessage>
+</Way58Rs>

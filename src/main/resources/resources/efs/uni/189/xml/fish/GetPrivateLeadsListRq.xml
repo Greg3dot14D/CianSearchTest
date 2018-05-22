@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetPrivateLeadsListRq>
+	<HeaderInfo RqUID="1234321" SystemId="CRMmmtest" RqTm="2122" SPName="urn:sbrfsystems:99-ufs"/>
+	<ClientInfo>
+		<StubId/>
+		<LastName/>
+		<FirstName/>
+		<MiddleName/>
+		<BirthDate/>
+		<PassportSer/>
+		<PassportNum/>
+		<CRMOptyNumber>170605001092580</CRMOptyNumber>
+	</ClientInfo>
+</GetPrivateLeadsListRq>

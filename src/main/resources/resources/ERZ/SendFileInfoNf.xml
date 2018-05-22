@@ -1,0 +1,23 @@
+<SendFileInfoNf>
+    <RqUID></RqUID>
+    <RqTm></RqTm>
+    <OperUID>FFC53FD7451B11e7801200144FF82CDA</OperUID>
+    <SPName>urn:sbrfsystems:99-pprbcrm_alpha</SPName>
+    <SystemId>urn:sbrfsystems:99-crmret_alpha</SystemId>
+    <Destination>
+        <Name/>
+        <Version>3.0</Version>
+    </Destination>
+    <File>
+        <FileInfo>
+            <Name>test_tfs_inf_resp_ld.csv</Name>
+        </FileInfo>
+        <Folder>
+            <FolderSource/>
+            <FolderTarget>/crm_dev/TEMP</FolderTarget>
+        </Folder>
+        <ScenarioInfo>
+            <ScenarioId>Resp_Import_PPRB</ScenarioId>
+        </ScenarioInfo>
+    </File>
+</SendFileInfoNf>

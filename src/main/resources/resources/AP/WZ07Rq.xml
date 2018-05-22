@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WZ07Rq>
+		<HeaderInfo RqUID="010202017ASDF066" RqTm="05/04/2017 11:00:00" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm" />
+		<SiebelMessage MessageId="" MessageType="Integration Object" IntObjectName="SBRF WZ07Rq" IntObjectFormat="Siebel Hierarchical">
+			<ListOfResponse pagesize="" startrownum="" recordcountneeded="">
+					   <Response>
+						  <SourceCode></SourceCode>
+						  <Description/>
+						  <CampaingMemberId></CampaingMemberId>
+						  <SBRFCellPhone></SBRFCellPhone>
+						  <ResponseDateTime></ResponseDateTime>
+						  <ResponseMethod></ResponseMethod>
+						  <OutcomeCode></OutcomeCode>
+						  <SBRFDetailResult>4</SBRFDetailResult>
+						  <IDActivity></IDActivity>
+						  <InformResultCode></InformResultCode>
+						  <RespEvt>JL</RespEvt>
+						  <WaveId>4</WaveId>
+					   </Response>
+			</ListOfResponse>
+        </SiebelMessage>
+</WZ07Rq>

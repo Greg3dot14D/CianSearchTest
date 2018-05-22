@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WZ05Rs
+>
+	<HeaderInfo
+ RqUID="1234"
+ RqTm="06/08/2017 15:22:03"
+ SystemId="urn:sbrfsystems:99-ufs"
+ ErrorCode="0"
+ SPName="urn:sbrfsystems:99-crm"
+ ErrorText=""
+/>
+	<SiebelMessage
+ MessageId="1-F6TT0"
+ IntObjectName="SBRF Cross WZ05Rq - CMNum"
+ MessageType="Integration Object"
+ IntObjectFormat="Siebel Hierarchical"
+>
+		<ListOfCampaignMembers
+>
+			<CampaignMember
+>
+				<CampCount
+/>
+				<CardStat
+/>
+				<EmplText
+/>
+				<PrintingAllowed
+/>
+				<OfferDate
+>05/30/2017 18:54:49</OfferDate
+>
+				<PersonalPriority
+>0</PersonalPriority
+>
+				<PersonalText
+/>
+				<Reaction
+/>
+				<TextOfReaction
+/>
+				<CampaignDirection
+>Активные продажи</CampaignDirection
+>
+				<SBRFCellPhone
+>79299457866</SBRFCellPhone
+>
+				<BackgroundId
+/>
+				<WaveID
+>1-AVJY82</WaveID
+>
+				<Insurance
+>
+					<InsAgrmntCcyCd
+>RUR</InsAgrmntCcyCd
+>
+					<InsDebtRubAmt
+>168893628</InsDebtRubAmt
+>
+					<InsOvdTerm
+>12</InsOvdTerm
+>
+					<InsColltrlPayableAmt
+>112200</InsColltrlPayableAmt
+>
+					<InsColltrlPaymentAmt
+>112200</InsColltrlPaymentAmt
+>
+					<InsColltrlValId
+>123123</InsColltrlValId
+>
+					<CreditContractNumber
+>905101770110464882</CreditContractNumber
+>
+					<PledgeType
+>Квартира</PledgeType
+>
+					<InsAgrmntCloseDt
+/>
+					<InsAagrmntId
+>1397212493584</InsAagrmntId
+>
+					<InsAgrmntOpenDt
+/>
+					<InsColltrlAddress
+>Москва, Новоданиловская наб., 10</InsColltrlAddress
+>
+					<InsColltrlCompName
+>Ингосстрах</InsColltrlCompName
+>
+					<InsColltrlInsId
+/>
+					<PledgeInsOpenDt
+/>
+					<PledgeInsuranceContact
+>3419353</PledgeInsuranceContact
+>
+					<ExpirationDataPIC
+>12/19/2216</ExpirationDataPIC
+>
+					<InsLifeCompName
+>Росно</InsLifeCompName
+>
+					<insLifeInsId
+/>
+					<LifeInsOpenDt
+/>
+					<LifeInsuranceContract
+>2419353</LifeInsuranceContract
+>
+					<ExpirationDataLIC
+>12/19/2216</ExpirationDataLIC
+>
+				</Insurance
+>
+				<CampaignMemberId
+>CRYVLR4XPRG4</CampaignMemberId
+>
+				<DivisionId
+/>
+				<ProcessCode
+/>
+				<CampaignId
+>1-AVMB8S</CampaignId
+>
+				<ClientManagerPerId
+>1-2R06G</ClientManagerPerId
+>
+				<ClientManagerPosId
+>0-5220</ClientManagerPosId
+>
+				<SBRFTreatmentCode
+/>
+				<CampaignName
+>ПРОЛОНГАЦИЯ_КРОСС</CampaignName
+>
+				<Passport
+>4508664088</Passport
+>
+				<FirstName
+>ЭЛЬВИРА</FirstName
+>
+				<ClientId
+>1-2LLQ-9699</ClientId
+>
+				<LastName
+>ФАТИХОВА</LastName
+>
+				<MiddleName
+>ФАТЕХОВНА</MiddleName
+>
+				<SourceName
+>ПРОЛОНГАЦИЯ_КАРДИФ-КРОСС</SourceName
+>
+				<BirthDate
+>12/08/1983</BirthDate
+>
+				<ClientSegment
+>Массовый</ClientSegment
+>
+				<DeactDate
+>07/30/2017 00:00:00</DeactDate
+>
+				<SourceCode
+>CRYVLR4XPRG4</SourceCode
+>
+				<TreatmentType
+>TM</TreatmentType
+>
+				<MediaType
+>TM</MediaType
+>
+				<LoadNumber
+>0</LoadNumber
+>
+				<StartDate
+>05/30/2017 18:54:49</StartDate
+>
+				<TB
+>38</TB
+>
+				<V1
+>Фатихова</V1
+>
+				<V16
+/>
+				<OSB
+>10266</OSB
+>
+				<VSP
+>25882</VSP
+>
+				<LevelSale
+/>
+				<V58
+/>
+				<RiskSegment
+/>
+				<ProdType
+>Страхование</ProdType
+>
+				<ProductType
+>Страхование</ProductType
+>
+				<StubID
+>905101770110464882</StubID
+>
+				<ProductASName
+>ПРОЛОНГАЦИЯ_КАРДИФ</ProductASName
+>
+				<ProductASPriority
+>1</ProductASPriority
+>
+				<ListOfInternalProduct
+>
+					<InternalProduct
+>
+						<SPOOBKProdId
+>1935</SPOOBKProdId
+>
+						<PrimaryProductId
+/>
+						<ProductId
+>1-3HAZ6Z</ProductId
+>
+						<ProductName
+>СТРАХОВАНИЕ ЗАЕМЩИКА</ProductName
+>
+						<ProductType
+>Страхование</ProductType
+>
+						<TargetProductType
+/>
+						<TargetProduct
+/>
+						<TargetProductSub
+/>
+						<Priority
+/>
+						<PrimaryFlag
+>N|</PrimaryFlag
+>
+						<MainProductId
+>1-AJ3HSX</MainProductId
+>
+						<TableName
+/>
+						<ColumnName01
+/>
+						<ColumnName02
+/>
+						<ColumnName03
+/>
+						<ColumnName04
+/>
+						<ColumnName05
+/>
+						<ColumnName06
+/>
+						<ColumnName07
+/>
+						<LineName01
+/>
+						<LineName02
+/>
+						<LineName03
+/>
+						<LineName04
+/>
+						<LineName05
+/>
+						<LineName06
+/>
+						<LineName07
+/>
+						<Cell11
+/>
+						<Cell12
+/>
+						<Cell13
+/>
+						<Cell14
+/>
+						<Cell15
+/>
+						<Cell16
+/>
+						<Cell17
+/>
+						<Cell21
+/>
+						<Cell22
+/>
+						<Cell23
+/>
+						<Cell24
+/>
+						<Cell25
+/>
+						<Cell26
+/>
+						<Cell27
+/>
+						<Cell31
+/>
+						<Cell32
+/>
+						<Cell33
+/>
+						<Cell34
+/>
+						<Cell35
+/>
+						<Cell36
+/>
+						<Cell37
+/>
+						<Cell41
+/>
+						<Cell42
+/>
+						<Cell43
+/>
+						<Cell44
+/>
+						<Cell45
+/>
+						<Cell46
+/>
+						<Cell47
+/>
+						<Cell51
+/>
+						<Cell52
+/>
+						<Cell53
+/>
+						<Cell54
+/>
+						<Cell55
+/>
+						<Cell56
+/>
+						<Cell57
+/>
+						<Cell61
+/>
+						<Cell62
+/>
+						<Cell63
+/>
+						<Cell64
+/>
+						<Cell65
+/>
+						<Cell66
+/>
+						<Cell67
+/>
+						<Cell71
+/>
+						<Cell72
+/>
+						<Cell73
+/>
+						<Cell74
+/>
+						<Cell75
+/>
+						<Cell76
+/>
+						<Cell77
+/>
+						<OfferExpiration
+>12/31/2999 23:59:59</OfferExpiration
+>
+						<CurrencyCode
+>RUB</CurrencyCode
+>
+						<RateMin
+/>
+						<RateMax
+/>
+						<LimitMin
+/>
+						<LimitMax
+/>
+						<PeriodMin
+/>
+						<PeriodMax
+/>
+					</InternalProduct
+>
+				</ListOfInternalProduct
+>
+				<ListOfPayrollAgrees
+/>
+				<ListOfPubContactCredential
+>
+					<PubContactCredential
+>
+						<SBRFNumber
+>4508664088</SBRFNumber
+>
+						<IssuingCountry
+>x</IssuingCountry
+>
+						<Number
+>665101786634706854</Number
+>
+						<Category
+>x</Category
+>
+					</PubContactCredential
+>
+				</ListOfPubContactCredential
+>
+			</CampaignMember
+>
+			<CampaignMember
+>
+				<CampCount
+>2</CampCount
+>
+				<CardStat
+/>
+				<EmplText
+>Добрый день Текст для сотрудника по клиенту Эльвира Фатеховна. Код УК CRYVLR4WZ3EZ</EmplText
+>
+				<PrintingAllowed
+/>
+				<OfferDate
+>06/01/2017 17:38:14</OfferDate
+>
+				<PersonalPriority
+>0</PersonalPriority
+>
+				<PersonalText
+>Основной текст сообщения по клиенту Эльвира Фатеховна с кодом УК CRYVLR4WZ3EZ. По кампании Пролонгация КРОСС ЕРКЦ</PersonalText
+>
+				<Reaction
+/>
+				<TextOfReaction
+/>
+				<CampaignDirection
+>Активные продажи</CampaignDirection
+>
+				<SBRFCellPhone
+>79299457866</SBRFCellPhone
+>
+				<BackgroundId
+/>
+				<WaveID
+>1-AVVSC0</WaveID
+>
+				<Insurance
+>
+					<InsAgrmntCcyCd
+>RUR</InsAgrmntCcyCd
+>
+					<InsDebtRubAmt
+>168893628</InsDebtRubAmt
+>
+					<InsOvdTerm
+>12</InsOvdTerm
+>
+					<InsColltrlPayableAmt
+>112200</InsColltrlPayableAmt
+>
+					<InsColltrlPaymentAmt
+>112200</InsColltrlPaymentAmt
+>
+					<InsColltrlValId
+>123123</InsColltrlValId
+>
+					<CreditContractNumber
+>905101770110464882</CreditContractNumber
+>
+					<PledgeType
+>Квартира</PledgeType
+>
+					<InsAgrmntCloseDt
+/>
+					<InsAagrmntId
+>1397212493584</InsAagrmntId
+>
+					<InsAgrmntOpenDt
+/>
+					<InsColltrlAddress
+>Москва, Новоданиловская наб., 10</InsColltrlAddress
+>
+					<InsColltrlCompName
+>Ингосстрах</InsColltrlCompName
+>
+					<InsColltrlInsId
+/>
+					<PledgeInsOpenDt
+/>
+					<PledgeInsuranceContact
+>3419353</PledgeInsuranceContact
+>
+					<ExpirationDataPIC
+>12/19/2216</ExpirationDataPIC
+>
+					<InsLifeCompName
+>Росно</InsLifeCompName
+>
+					<insLifeInsId
+/>
+					<LifeInsOpenDt
+/>
+					<LifeInsuranceContract
+>2419353</LifeInsuranceContract
+>
+					<ExpirationDataLIC
+>12/19/2216</ExpirationDataLIC
+>
+				</Insurance
+>
+				<CampaignMemberId
+>CRYVLR4WZ3EZ</CampaignMemberId
+>
+				<DivisionId
+/>
+				<ProcessCode
+/>
+				<CampaignId
+>1-AW0SIM</CampaignId
+>
+				<ClientManagerPerId
+>1-2R06G</ClientManagerPerId
+>
+				<ClientManagerPosId
+>0-5220</ClientManagerPosId
+>
+				<SBRFTreatmentCode
+/>
+				<CampaignName
+>ПРОЛОНГАЦИЯ_КРОСС-ЕРКЦ</CampaignName
+>
+				<Passport
+>4508664088</Passport
+>
+				<FirstName
+>ЭЛЬВИРА</FirstName
+>
+				<ClientId
+>1-2LLQ-9699</ClientId
+>
+				<LastName
+>ФАТИХОВА</LastName
+>
+				<MiddleName
+>ФАТЕХОВНА</MiddleName
+>
+				<SourceName
+>ПРОЛОНГАЦИЯ_КАРДИФ-КРОСС</SourceName
+>
+				<BirthDate
+>12/08/1983</BirthDate
+>
+				<ClientSegment
+>Массовый</ClientSegment
+>
+				<DeactDate
+>08/31/2017 00:00:00</DeactDate
+>
+				<SourceCode
+>CRYVLR4WZ3EZ</SourceCode
+>
+				<TreatmentType
+>CC</TreatmentType
+>
+				<MediaType
+>CC</MediaType
+>
+				<LoadNumber
+>0</LoadNumber
+>
+				<StartDate
+>06/01/2017 17:38:14</StartDate
+>
+				<TB
+>38</TB
+>
+				<V1
+>Фатихова</V1
+>
+				<V16
+/>
+				<OSB
+>10266</OSB
+>
+				<VSP
+>25882</VSP
+>
+				<LevelSale
+/>
+				<V58
+/>
+				<RiskSegment
+/>
+				<ProdType
+>Страхование</ProdType
+>
+				<ProductType
+>Страхование</ProductType
+>
+				<StubID
+>905101770110464882</StubID
+>
+				<ProductASName
+>ПРОЛОНГАЦИЯ_КАРДИФ</ProductASName
+>
+				<ProductASPriority
+>1</ProductASPriority
+>
+				<ListOfInternalProduct
+>
+					<InternalProduct
+>
+						<SPOOBKProdId
+>1935</SPOOBKProdId
+>
+						<PrimaryProductId
+/>
+						<ProductId
+>1-3HAZ6Z</ProductId
+>
+						<ProductName
+>СТРАХОВАНИЕ ЗАЕМЩИКА</ProductName
+>
+						<ProductType
+>Страхование</ProductType
+>
+						<TargetProductType
+/>
+						<TargetProduct
+/>
+						<TargetProductSub
+/>
+						<Priority
+/>
+						<PrimaryFlag
+>N|</PrimaryFlag
+>
+						<MainProductId
+>1-AJ3HSX</MainProductId
+>
+						<TableName
+/>
+						<ColumnName01
+/>
+						<ColumnName02
+/>
+						<ColumnName03
+/>
+						<ColumnName04
+/>
+						<ColumnName05
+/>
+						<ColumnName06
+/>
+						<ColumnName07
+/>
+						<LineName01
+/>
+						<LineName02
+/>
+						<LineName03
+/>
+						<LineName04
+/>
+						<LineName05
+/>
+						<LineName06
+/>
+						<LineName07
+/>
+						<Cell11
+/>
+						<Cell12
+/>
+						<Cell13
+/>
+						<Cell14
+/>
+						<Cell15
+/>
+						<Cell16
+/>
+						<Cell17
+/>
+						<Cell21
+/>
+						<Cell22
+/>
+						<Cell23
+/>
+						<Cell24
+/>
+						<Cell25
+/>
+						<Cell26
+/>
+						<Cell27
+/>
+						<Cell31
+/>
+						<Cell32
+/>
+						<Cell33
+/>
+						<Cell34
+/>
+						<Cell35
+/>
+						<Cell36
+/>
+						<Cell37
+/>
+						<Cell41
+/>
+						<Cell42
+/>
+						<Cell43
+/>
+						<Cell44
+/>
+						<Cell45
+/>
+						<Cell46
+/>
+						<Cell47
+/>
+						<Cell51
+/>
+						<Cell52
+/>
+						<Cell53
+/>
+						<Cell54
+/>
+						<Cell55
+/>
+						<Cell56
+/>
+						<Cell57
+/>
+						<Cell61
+/>
+						<Cell62
+/>
+						<Cell63
+/>
+						<Cell64
+/>
+						<Cell65
+/>
+						<Cell66
+/>
+						<Cell67
+/>
+						<Cell71
+/>
+						<Cell72
+/>
+						<Cell73
+/>
+						<Cell74
+/>
+						<Cell75
+/>
+						<Cell76
+/>
+						<Cell77
+/>
+						<OfferExpiration
+>12/31/2999 23:59:59</OfferExpiration
+>
+						<CurrencyCode
+>RUB</CurrencyCode
+>
+						<RateMin
+/>
+						<RateMax
+/>
+						<LimitMin
+/>
+						<LimitMax
+/>
+						<PeriodMin
+/>
+						<PeriodMax
+/>
+					</InternalProduct
+>
+				</ListOfInternalProduct
+>
+				<ListOfPayrollAgrees
+/>
+				<ListOfPubContactCredential
+>
+					<PubContactCredential
+>
+						<SBRFNumber
+>4508664088</SBRFNumber
+>
+						<IssuingCountry
+>x</IssuingCountry
+>
+						<Number
+>665101786634706854</Number
+>
+						<Category
+>x</Category
+>
+					</PubContactCredential
+>
+				</ListOfPubContactCredential
+>
+			</CampaignMember
+>
+		</ListOfCampaignMembers
+>
+	</SiebelMessage
+>
+</WZ05Rs
+>

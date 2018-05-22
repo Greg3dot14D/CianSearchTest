@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WZ08Rq>
+    <HeaderInfo RqUID="23112017777" RqTm="10/30/2017 12:20:15" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm"/>
+    <SiebelMessage MessageId="" MessageType="Integration Object" IntObjectName="SBRF WZ08Rq" IntObjectFormat="Siebel Hierarchical">
+        <ListOfActivities>
+            <Activity>
+                <DivisionId>38903866666</DivisionId>
+                <Segment>Премьер</Segment>
+                <ActionStart>11/24/2017</ActionStart>
+                <ActionEnd>11/25/2017</ActionEnd>
+            </Activity>
+        </ListOfActivities>
+    </SiebelMessage>
+</WZ08Rq>

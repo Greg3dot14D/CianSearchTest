@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SendFileInfoNf>
+    <RqUID>20122017144700</RqUID>
+    <RqTm>2017-11-27T14:00:00+03:00</RqTm>
+    <OperUID>FFC53FD7451B11e7801200144FF82CDA</OperUID>
+    <SPName>urn:sbrfsystems:99-ufs_alpha</SPName>
+    <SystemId>urn:sbrfsystems:99-crmret_alpha</SystemId>
+    <Destination>
+        <Name>crmret_alpha</Name>
+    </Destination>
+    <File>
+        <FileInfo>
+            <Name>DigitalSales_2017-12-20T12-00-00Z.csv</Name>
+        </FileInfo>
+        <Folder>
+            <FolderTarget>/CRMRET/to/UFSALPHA/MarketingResponse</FolderTarget>
+        </Folder>
+        <ScenarioInfo>
+            <ScenarioId>35394500</ScenarioId>
+        </ScenarioInfo>
+    </File>
+</SendFileInfoNf>

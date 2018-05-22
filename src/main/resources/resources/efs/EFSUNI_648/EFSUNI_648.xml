@@ -1,0 +1,6 @@
+<GetPDSTaskRq>
+	<HeaderInfo SystemId="urn:sbrfsystems:99-crm" SPName="urn:sbrfsystems:99-ufs" RqTm="04/11/2016 18:51:00" RqUID="1234"/>
+	<SiebelMessage>
+		<Login></Login>
+	</SiebelMessage>
+</GetPDSTaskRq>

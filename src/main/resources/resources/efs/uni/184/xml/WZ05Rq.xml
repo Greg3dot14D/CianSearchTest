@@ -1,0 +1,16 @@
+<WZ05Rq>
+	<HeaderInfo SystemId="urn:sbrfsystems:99-crm" SPName="urn:sbrfsystems:99-ufs" RqTm="04/11/2016 18:51:00" RqUID="1234" />
+	<SiebelMessage MessageId='2121' MessageType='Integration Object' IntObjectName='SBRF WZ05Rq' IntObjectFormat='Siebel Hierarchical'>
+		<ListOfCampaignMembers>
+			<CampaignMember>
+				<SourceCode/>
+				<LastName/>
+				<FirstName/>
+				<MiddleName/>
+				<BirthDate/>
+				<SBRFCellPhone/>
+				<TreatmentType>EFS-TM</TreatmentType>
+			</CampaignMember>
+		</ListOfCampaignMembers>
+	</SiebelMessage>
+</WZ05Rq>

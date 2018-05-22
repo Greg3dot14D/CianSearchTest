@@ -1,0 +1,17 @@
+<Email01Rq>
+    <HeaderInfo SPName="BP_ERIB" RqUID="20162017" RqTm="12/07/2016 18:40:00" SystemId="urn:sbrfsystems:99-crm"/>
+    <SiebelMessage MessageType="Siebel Hierarchical" IntObjectFormat="Integration Object" IntObjectName="SBRF Email01Rq">
+        <ListOfSBRFAppeals>
+            <SBRFAppeal>
+                <AppealNum>1706220000147000</AppealNum>
+                <OperationType>CreateAppeal</OperationType>
+                <MsgId>51B7D07DD9D44ED69D8125F3EB8FC3CE</MsgId>
+                <From>ajsdfg@mail.ru</From>
+                <To>dop_info@sberbank.ru</To>
+                <Subject>Сбербанк. Запрос допинфо по задаче</Subject>
+                <Body>Добрый День! Номер моего паспорта 3546 7586645 Спасибо #1-711934215. Бугага. Ваш Сбербанк.</Body>
+                <BodyType>text/plain</BodyType>
+            </SBRFAppeal>
+        </ListOfSBRFAppeals>
+    </SiebelMessage>
+</Email01Rq>

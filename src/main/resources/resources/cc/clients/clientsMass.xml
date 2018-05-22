@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<clientWithBankingCard>
+    <HeaderInfo RqUID="" RqTm="" ErrorCode="" SystemId="" SPName="" ErrorText=""/>
+    <ListOfClients>
+        <!--Клиент Массовый с банковскими картами БЕЗ МБ-->
+        <Client>
+            <LastName>КОРОТКОВА</LastName>
+            <FirstName>ЕКАТЕРИНА</FirstName>
+            <MiddleName>НИКОЛАЕВНА</MiddleName>
+            <BirthDate>18.11.1967</BirthDate>
+            <NickName>КОРОТКОВАЕН</NickName>
+            <Phone/>
+            <DUL>6010812431</DUL>
+            <CRMId>1-7W9U-545</CRMId>
+            <MDMId>843039532166266950</MDMId>
+            <StubID></StubID>
+            <Segment>Массовый</Segment>
+            <MBPhone/>
+            <ListOfBankingCards>
+                <BankingCard>
+                    <Id>1@1172134957</Id>
+                    <CardNumber>4817810042097276</CardNumber>
+                    <Status>1</Status>
+                    <ProductId></ProductId>
+                </BankingCard>
+                <BankingCard>
+                    <Id>1@1605927052</Id>
+                    <CardNumber>4817790026337973</CardNumber>
+                    <Status>1</Status>
+                    <ProductId></ProductId>
+                </BankingCard>
+            </ListOfBankingCards>
+        </Client>
+
+        <!--Клиент Массовый с банковскими картами-->
+        <Client>
+            <LastName>ШКУРКИН</LastName>
+            <FirstName>АЛЕКСАНДР</FirstName>
+            <MiddleName>КИРИЛОВИЧ</MiddleName>
+            <BirthDate>01.01.1980</BirthDate>
+            <NickName>ШКУРКИНАК</NickName>
+            <Phone/>
+            <DUL>2015134679</DUL>
+            <CRMId>1-1DBVHPG</CRMId>
+            <MDMId>1-1DBVHPG</MDMId>
+            <StubID></StubID>
+            <Segment>Массовый</Segment>
+            <MBPhone/>
+            <ListOfBankingCards>
+                <BankingCard>
+                    <Id>1@339849967v</Id>
+                    <CardNumber>5469380031724411</CardNumber>
+                    <Status>1</Status>
+                    <ProductId>1-EP3MS</ProductId>
+                </BankingCard>
+                <BankingCard>
+                    <Id>1@1865167830</Id>
+                    <CardNumber>4279380017558182</CardNumber>
+                    <Status>1</Status>
+                    <ProductId>1-1LB3-1220</ProductId>
+                </BankingCard>
+            </ListOfBankingCards>
+        </Client>
+    </ListOfClients>
+</clientWithBankingCard>

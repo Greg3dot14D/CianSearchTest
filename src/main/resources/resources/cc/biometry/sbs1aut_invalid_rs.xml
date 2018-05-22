@@ -1,0 +1,36 @@
+<SbsIvaResponse>
+    <OperationResult>
+        <Code>0</Code>
+        <Description>?</Description>
+    </OperationResult>
+    <OperationData>
+        <UserId>?</UserId>
+        <OriginalScore>?</OriginalScore>
+        <QualityLevelsResult>
+            <QualityLevel>?</QualityLevel>
+            <Success>true</Success>
+            <IsSuccess>true</IsSuccess>
+        </QualityLevelsResult>
+        <VerifyCodeInfo>
+            <VerifyCode>?</VerifyCode>
+            <CreationTime>?</CreationTime>
+            <Channel>?</Channel>
+            <Chanel>?</Chanel>
+            <Modality>?</Modality>
+        </VerifyCodeInfo>
+        <AddParams>
+            <Key>?</Key>
+            <Value>?</Value>
+        </AddParams>
+        <AddParams>
+            <Key>blablabla</Key>
+            <Value>666</Value>
+        </AddParams>
+        <Blet>
+            <Navalny>100</Navalny>
+        </Blet>
+    </OperationData>
+    <BadTeg>
+        <VeryBadTeg>100</VeryBadTeg>
+    </BadTeg>
+</SbsIvaResponse>

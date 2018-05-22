@@ -1,0 +1,19 @@
+<CreatePrivateClientManagerTaskRq>
+	<HeaderInfo  UserInfo="" SystemId="urn:sbrfsystems:99-crm" SPName="urn:sbrfsystems:99-ufs" RqTm="04/11/2016 18:51:00" RqUID="1234"
+				 Method="" OperUId=""/>
+	<SiebelMessage IntObjectName="SBRF UFS CreateClientManagerActivity Rq">
+		<ListOfActivity>
+			<Activity>
+				<Type></Type>
+				<CreatedByUser></CreatedByUser>
+				<Owner></Owner>
+				<FactDateFrom></FactDateFrom>
+				<UKCode></UKCode>
+				<StabId></StabId>
+				<CreatedByCCFullName></CreatedByCCFullName>
+				<CreatedByCCId></CreatedByCCId>
+				<Source></Source>
+			</Activity>
+		</ListOfActivity>
+	</SiebelMessage>
+</CreatePrivateClientManagerTaskRq>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SendClientOfferFeedbackNf>
+    <HeaderInfo RqUID="4854ijwsj589430u2" RqTm="01/01/2017 10:10:10" SPName="MBC" SystemId="urn:sbrfsystems:99-crm" VersionId="1"/>
+    <ClientSMS>
+        <OriginalOperationUID>1-9887092196</OriginalOperationUID>
+        <ApproveOfferDateTime>11/11/2019 11:11:11</ApproveOfferDateTime>
+    </ClientSMS>
+</SendClientOfferFeedbackNf>

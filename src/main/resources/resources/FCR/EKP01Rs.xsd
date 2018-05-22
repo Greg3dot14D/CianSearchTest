@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsdLocal="http://www.siebel.com/xml/SBRF%20EKP01Rs%20Ext%20for%20XSD" targetNamespace="http://www.siebel.com/xml/SBRF%20EKP01Rs%20Ext%20for%20XSD" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xsd:annotation>
+		<xsd:documentation>Copyright (C) 2001-2004 Siebel Systems, Inc. All rights reserved. Siebel XSD Generation</xsd:documentation>
+	</xsd:annotation>
+	<xsd:element name="EKP01Rs" type="xsdLocal:EKP01Rs"/>
+	<xsd:complexType name="EKP01RsTopElmt">
+		<xsd:sequence>
+			<xsd:element name="EKP01Rs" type="xsdLocal:EKP01Rs" minOccurs="1" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="EKP01Rs">
+		<xsd:sequence>
+			<xsd:element name="HeaderInfo" type="xsdLocal:HeaderInfo" minOccurs="1" maxOccurs="1"/>
+			<xsd:element name="GetPrivateLoanDetailsRs" type="xsdLocal:GetPrivateLoanDetailsRs" minOccurs="1" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="HeaderInfo">
+		<xsd:attribute name="UserInfo" type="xsd:string"/>
+		<xsd:attribute name="SPName" type="xsd:string"/>
+		<xsd:attribute name="RqUID" type="xsd:string"/>
+		<xsd:attribute name="RqTm" type="xsd:string"/>
+		<xsd:attribute name="RbTbBrchId" type="xsd:string"/>
+		<xsd:attribute name="ErrorText" type="xsd:string"/>
+		<xsd:attribute name="ErrorCode" type="xsd:string"/>
+	</xsd:complexType>
+	<xsd:complexType name="GetPrivateLoanDetailsRs">
+		<xsd:sequence>
+			<xsd:element name="OperUID" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="SystemId" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="LoanRec" type="xsdLocal:LoanRec" minOccurs="0" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="LoanRec">
+		<xsd:sequence>
+			<xsd:element name="ProdId" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="IdSpacing" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="LoanType" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="Period" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="CreditingRate" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="LoanStatus" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="PrincipalBalance" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="FullRepaymentAmount" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="Overdue" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="Accounts" type="xsdLocal:Accounts" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="BAKS" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="AutoGrantion" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="ApplicationNumberCA" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="CustRec" type="xsdLocal:CustRec" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="AgencyAddress" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="EarlyRepayment" type="xsdLocal:EarlyRepayment" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="AcctBalOnDate" type="xsdLocal:AcctBalOnDate" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="CreditSum" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Accounts">
+		<xsd:sequence>
+			<xsd:element name="Card" type="xsdLocal:Card" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="Account" type="xsdLocal:Account" minOccurs="0" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="CustRec">
+		<xsd:sequence>
+			<xsd:element name="CustInfo" type="xsdLocal:CustInfo" minOccurs="1" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="EarlyRepayment">
+		<xsd:sequence>
+			<xsd:element name="Amount" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="Date" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="Status" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="Account" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="RepaymentChannel" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="TerminationRequestId" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="ERIBRequestID" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="AcctBalOnDate">
+		<xsd:sequence>
+			<xsd:element name="BalType" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="BalName" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="CurAmt" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="NextAmt" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="AcctCur" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="DebtAccount" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="Priority" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="AcctCount" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="EffDt" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Card">
+		<xsd:sequence>
+			<xsd:element name="Element" type="xsdLocal:Element" minOccurs="1" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Account">
+		<xsd:sequence>
+			<xsd:element name="Element" type="xsdLocal:Element" minOccurs="1" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="CustInfo">
+		<xsd:sequence>
+			<xsd:element name="PersonInfo" type="xsdLocal:PersonInfo" minOccurs="1" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Element">
+		<xsd:sequence>
+			<xsd:element name="Id" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="Priority" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="PersonInfo">
+		<xsd:sequence>
+			<xsd:element name="PersonRole" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="PersonName" type="xsdLocal:PersonName" minOccurs="0" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="PersonName">
+		<xsd:sequence>
+			<xsd:element name="LastName" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="FirstName" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="MiddleName" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="CompanyName" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+</xsd:schema>

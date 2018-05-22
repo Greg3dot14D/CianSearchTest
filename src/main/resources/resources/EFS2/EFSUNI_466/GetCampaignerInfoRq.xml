@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WZ05Rq>
+    <HeaderInfo RqUID="MyGENERALRQUID" RqTm="04/11/2016 18:51:00" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm"/>
+    <SiebelMessage>
+        <ListOfCampaignMembers>
+            <CampaignMember>
+                <StubID></StubID>
+                <EPKId></EPKId>
+                <DivisionCode></DivisionCode>
+            </CampaignMember>
+        </ListOfCampaignMembers>
+    </SiebelMessage>
+</WZ05Rq>

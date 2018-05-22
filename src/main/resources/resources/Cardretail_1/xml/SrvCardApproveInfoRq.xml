@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SrvCardApproveInfoRq>
+  <HeaderInfo RqUID="J6h99H4g1J2O81S8g021241D22C31" RqTm="02/08/2016 12:14:00" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm"/>
+  <Offer>
+    <LastName>БОРИСОВ</LastName>
+    <FirstName>АЛЕКСЕЙ</FirstName>
+    <MiddleName>ПЕТРОВИЧ</MiddleName>
+    <BirthDate>03/04/1967</BirthDate>
+    <DocumentNumber>123434</DocumentNumber>
+    <DocumentSeries>1234</DocumentSeries>
+    <LimitSum>1002</LimitSum>
+    <CompanyName>Company</CompanyName>
+    <WorkIndex>875621</WorkIndex>
+    <WorkAdress1>WorkAdress1</WorkAdress1>
+    <WorkAdress2>WorkAdress2</WorkAdress2>
+    <WorkAdress3>WorkAdress3</WorkAdress3>
+    <WorkAdress4>WorkAdress4</WorkAdress4>
+    <ClientID>1546258</ClientID>
+    <CardNum>2000200020002000</CardNum>
+    <CodeTB>19</CodeTB>
+    <CodeOSB>1463</CodeOSB>
+    <CodeVSP>12340</CodeVSP>
+    <ClientType>TEST_06072016_1340</ClientType>
+  </Offer>
+</SrvCardApproveInfoRq>

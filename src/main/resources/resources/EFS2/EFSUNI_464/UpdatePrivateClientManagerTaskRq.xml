@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UpdatePrivateClientManagerTaskRq>
+    <HeaderInfo RqUID="MyGENERALRQUID" RqTm="04/11/2016 18:51:00" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm" OperUId = "123123123123123" />
+    <SiebelMessage IntObjectName="SBRF UFS CreateClientManagerActivity Rq">
+        <ListOfActivity>
+            <Activity>
+                <Id></Id>
+                <Version></Version>
+                <FactDateFrom></FactDateFrom>
+                <FactDateTo></FactDateTo>
+            </Activity>
+        </ListOfActivity>
+    </SiebelMessage>
+</UpdatePrivateClientManagerTaskRq>

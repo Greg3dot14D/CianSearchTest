@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Way15Rs>
+    <HeaderInfo ErrorCode="0" ErrorText="" RqUID="00000000000000000000000000000000"/>
+    <SiebelMessage MessageId="String" IntObjectName="SBRF Way15Rs" IntObjectFormat="Siebel Hierarchical" MessageType="Integration Object">
+        <ListOfCreditContract>
+            <CreditContract>
+                <OpenDate>04/24/2012</OpenDate>
+                <ContractStatus>status</ContractStatus>
+                <CreditLimit>60000</CreditLimit>
+                <AvailAmount>41724.05</AvailAmount>
+                <BalanceFund>0</BalanceFund>
+                <PmtDt>11/13/2013</PmtDt>
+                <CompulsoryPayment>0</CompulsoryPayment>
+                <BeforeDt>2</BeforeDt>
+                <CurTotalDebt>-15010.73</CurTotalDebt>
+                <TomTotalDebt>-15013.32</TomTotalDebt>
+                <AfterTomTotaldebt>-15015.9</AfterTomTotaldebt>
+                <CreditPercent>-17.21</CreditPercent>
+                <Penalty>0</Penalty>
+                <fee>0</fee>
+                <PenaltyReport>0</PenaltyReport>
+                <OverduePayment>0</OverduePayment>
+                <CurCreditLimit>0</CurCreditLimit>
+                <CreditPercentFee>-32.57</CreditPercentFee>
+                <Principal>-14960.95 </Principal>
+            </CreditContract>
+        </ListOfCreditContract>
+    </SiebelMessage>
+</Way15Rs>

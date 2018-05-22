@@ -1,0 +1,38 @@
+<Header>
+	<Activity>
+		<BirthDate>08/09/1967</BirthDate>
+		<BusinessSegment>Премьер</BusinessSegment>
+		<EpkId>1-1ETCFB</EpkId>
+		<FirstName>ПРЕМЬЕР</FirstName>
+		<LastName>МАССОВЫЙ</LastName>
+		<MdmId>299410227046044987</MdmId>
+		<MiddleName>ЧЕТЫРНАДЦАТЬА</MiddleName>
+		<Phone/>
+		<DocumentSerNum/>
+		<AutoactivityFlag/>
+		<Segment>Премьер</Segment>
+		<ParentActionId/>
+		<BisType>ВСП</BisType>
+		<ListOfProducts/>
+		<Id>1-1ETCFB</Id>
+		<Version>0</Version>
+		<Type>Событие</Type>
+		<Status>В процессе</Status>
+		<PlanDateFrom>12/26/2012 17:50:25</PlanDateFrom>
+		<PlanDateTo>12/26/2012 18:00:25</PlanDateTo>
+		<FactDateFrom>12/26/2012 13:50:25</FactDateFrom>
+		<FactDateTo/>
+		<GPS/>
+		<InTimeFlag/>
+		<ChildActivityFlag>N</ChildActivityFlag>
+		<OrganizationId/>
+		<AddressId/>
+		<PointId/>
+		<CreatedByUser/>
+		<Owner>USER_SP11</Owner>
+		<Estimated/>
+		<Description>Создан новый план продаж : PLAN</Description>
+		<Result/>
+		<Comment>Создан новый план продаж : PLAN</Comment>
+	</Activity>
+</Header>

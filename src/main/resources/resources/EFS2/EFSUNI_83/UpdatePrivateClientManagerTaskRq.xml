@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UpdatePrivateClientManagerTaskRq>
+<HeaderInfo RqUID="GENERAL" RqTm="02/27/2017 11:21:54" SPName="urn:sbrfsystems:99-ufs"/>
+<PrimaryOperation>
+    <OperationGroup>UFSActiveOperations</OperationGroup>
+    <OperationType>Document</OperationType>
+    <OperationName>Reference</OperationName>
+    <SrcObjId>MYSRCOBJ11M</SrcObjId>
+    <ClientId>981410229337525193</ClientId>
+    <Channel>CC</Channel>
+    <OperationData>
+        <AccountSrc>102030405060708099</AccountSrc>
+        <EndDate>02/27/2018 11:21:54</EndDate>
+        <ErrorCode></ErrorCode>
+        <ErrorMsName></ErrorMsName>
+        <ErrorText></ErrorText>
+        <Fee>150</Fee>
+        <FeeCurrency>RUB</FeeCurrency>
+        <MsId></MsId>
+        <MsOperationId></MsOperationId>
+        <PanSrc>1125199400008572</PanSrc>
+        <ServiceSrId>1-1QP80A8</ServiceSrId>
+        <SmsPhoneNum>+79106661262</SmsPhoneNum>
+        <StartDate>02/27/2017 11:21:54</StartDate>
+        <Status>WaitingForClient</Status>
+        <StatusDate>04/18/2017 11:21:54</StatusDate>
+        <DocumentType>TESTDOCUMENTTYPE</DocumentType>
+        <DocumentLang>RUS</DocumentLang>
+        <DocumentDate>04/13/2017</DocumentDate>
+        <DocumentStartDate>01/01/2017</DocumentStartDate>
+        <DocumentEndDate>04/10/2017</DocumentEndDate>
+        <DocumentAddress>autotest@mail.ru</DocumentAddress>
+    </OperationData>
+</PrimaryOperation>
+</UpdatePrivateClientManagerTaskRq>

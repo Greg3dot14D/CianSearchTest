@@ -1,0 +1,23 @@
+<UpdatePrivateClientManagerTaskRq>
+	<HeaderInfo
+		RqUID = "343121"
+		SystemId = "urn:sbrfsystems:99-ufs"
+		RqTm = "06/20/2017 16:00:00"
+		SPName = "urn:sbrfsystems:99-ufs"
+		UserInfo = ""
+		Method = "">
+	</HeaderInfo>
+	<SiebelMessage IntObjectName = "SBRF UFS UpdatePrivateClientManager - Call">
+		<ListOfActivity>
+			<Activity>
+				<Id></Id>
+				<TypeId></TypeId>
+				<SubTypeId></SubTypeId>
+				<AreaId></AreaId>
+				<SubAreaId></SubAreaId>
+				<PlanDateTo></PlanDateTo>
+				<FactDateTo></FactDateTo>
+			</Activity>
+		</ListOfActivity>
+	</SiebelMessage>
+</UpdatePrivateClientManagerTaskRq>
