@@ -1,1 +1,0 @@
-click.exe "CLICK" "[CLASS:CalcFrame]" "Button12"

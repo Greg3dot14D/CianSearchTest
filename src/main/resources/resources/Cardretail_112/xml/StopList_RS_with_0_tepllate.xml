@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CheckInStopListRs>
-	<HeaderInfo RqUID="39D645E3AC9411e6AA4000144FFBDEB4" RqTm="11/15/2016 13:30:57" SPName="urn:sbrfsystems:99-ufs" SystemId="urn:sbrfsystems:99-crm"/>
-	<Status>
-		<StatusCode>0</StatusCode>
-		<StatusDesc>всё отл</StatusDesc>
-		<ServerStatusDesc>уащпе норм</ServerStatusDesc>
-	</Status>
-	#CustRec#</CheckInStopListRs>
